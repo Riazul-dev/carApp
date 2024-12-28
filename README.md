@@ -1,4 +1,4 @@
-## Getting Started
+## This is Car rental app
 
 First, run the development server:
 
